@@ -1,0 +1,11 @@
+{
+  "name": "efficient-smelting&converting",
+  "version": "1.0.0",
+  "title": "Efficient Smelting & Converting",
+  "author": "Drac0niX",
+  "contact": "",
+  "homepage": "",
+  "description": "100x smelting for iron&copper ores and stone - 10x converting for all oil based recipes",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.32"]
+}
