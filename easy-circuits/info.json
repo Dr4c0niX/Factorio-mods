@@ -1,0 +1,11 @@
+{
+  "name": "easy-circuits",
+  "version": "1.0.0",
+  "title": "Easy Circuits",
+  "author": "Drac0niX",
+  "contact": "",
+  "homepage": "",
+  "description": "Simplifie l'obtention des circuits électroniques, avancés et des processeurs.",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.32"]
+}
