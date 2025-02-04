@@ -26,3 +26,5 @@ data.raw.recipe["processing-unit"].ingredients = {
 data.raw.recipe["processing-unit"].results = {
     {type = "item", name = "processing-unit", amount = 20}
 }
+
+data.raw.item["solar-panel"].weight = 0.5  -- Reduce weight of solar panel because without it, it's impossible to send it to your space platform on Space Age DLC
